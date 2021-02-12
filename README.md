@@ -1,0 +1,16 @@
+# Heyo! 💖
+Lets get this out of the way...
+
+🥟 I AM A DUNCE... 
+
+💖 I love cats...
+
+💻 I can program...
+
+🖼 I do art on my [twitter](https://twitter.com/tentarj)...
+
+## 🐍 I have an open-source repl.it ran Discord pythonbot that anyone can grab and set up easilly from [here](https://github.com/tentarj/tentaai)!
+
+### Other than that, thats pretty much it! Maybe follow me on [Twitter](https://twitter.com/tentarj) to get updates on the projects I'm working on?
+
+Mario? Who is this guy?
