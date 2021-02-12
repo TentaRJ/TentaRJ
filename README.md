@@ -9,7 +9,7 @@ Lets get this out of the way...
 
 🖼 I do art on my [twitter](https://twitter.com/tentarj)...
 
-## 🐍 I have an open-source repl.it ran Discord pythonbot that anyone can grab and set up easilly from [here](https://github.com/tentarj/tentaai)!
+## 🐍 I have an open-source [repl.it](https://repl.it) ran Discord pythonbot that anyone can grab and set up easilly from [here](https://github.com/tentarj/tentaai)!
 
 ### Other than that, thats pretty much it! Maybe follow me on [Twitter](https://twitter.com/tentarj) to get updates on the projects I'm working on?
 
