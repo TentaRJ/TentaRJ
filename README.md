@@ -1,5 +1,5 @@
 # Heyo! 💖
 
-### 🖼 I do art on my [twitter](https://twitter.com/tentarj)...
+### 💻 I can program! Pog!
 
-### 💻 I'm leaning how to program! Pog!
+### Currently working on some FNF mods and being cool 😎
