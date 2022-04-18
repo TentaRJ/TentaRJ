@@ -2,4 +2,4 @@
 
 ### 💻 I can program! Pog!
 
-### Currently working on some FNF mods and being cool 😎
+### Doin my own things right now, pogging out of my mind
